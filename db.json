@@ -1,0 +1,119 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Trocya",
+      "breed": "Sphinx",
+      "weight": 6.7,
+      "foodId": "sph"
+    },
+    {
+      "id": 2,
+      "name": "Lucya",
+      "breed": "British",
+      "weight": 6.2,
+      "foodId": "brt"
+    },
+    {
+      "id": 3,
+      "name": "Al",
+      "breed": "Human",
+      "weight": 65,
+      "foodId": "hmn"
+    },
+    {
+      "id": 4,
+      "name": "Nat",
+      "breed": "Human",
+      "weight": 67,
+      "foodId": "hmn"
+    },
+    {
+      "name": "Pony",
+      "breed": "Stockhorse",
+      "weight": "95",
+      "foodId": "hrs",
+      "id": 5
+    },
+    {
+      "name": "Chih",
+      "breed": "Chua-Hua",
+      "weight": "3.3",
+      "foodId": "Cde",
+      "id": 6
+    }
+  ],
+  "foods": [
+    {
+      "id": "sph",
+      "food": [
+        "Metabolic",
+        "Joints"
+      ]
+    },
+    {
+      "id": "brt",
+      "food": [
+        "Hairball"
+      ]
+    },
+    {
+      "id": "hmn",
+      "food": [
+        "Fruits",
+        "Dairy",
+        "Vegatables",
+        "Meat"
+      ]
+    },
+    {
+      "id": "hrs",
+      "food": [
+        "Grass",
+        "Hay"
+      ]
+    }
+  ],
+  "horseBreeds": [
+    {
+      "id": 1,
+      "name": "Stockhorse"
+    },
+    {
+      "id": 2,
+      "name": "Shetland Pony"
+    },
+    {
+      "id": 3,
+      "name": "Thouroughbred"
+    },
+    {
+      "id": 4,
+      "name": "Arab"
+    },
+    {
+      "id": 5,
+      "name": "Clydesdale"
+    },
+    {
+      "id": 6,
+      "name": "Miniature Pony"
+    },
+    {
+      "id": 7,
+      "name": "Welsh Mountain Pony"
+    },
+    {
+      "id": 8,
+      "name": "Standardbred"
+    },
+    {
+      "id": 9,
+      "name": "Australian Miniture Horse"
+    },
+    {
+      "id": 10,
+      "name": "Donkey"
+    }
+  ]
+}
